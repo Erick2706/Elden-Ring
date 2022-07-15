@@ -1,0 +1,47 @@
+*
+    {padding:0 ;
+    margin:0 ;
+    box-sizing: border-box;}
+body 
+    {height: 100vh;
+    background: linear-gradient(90deg, #000, #000d 30%, #0000), url("imagens/Fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;}
+main
+    {height: 260px;
+    width: 500px;
+    padding-left: 50px;
+    position: relative;
+    top: -80px;}
+p
+    {color: white;
+    text-align: justify;}
+img
+   {height: 210px;
+    width: 500px;
+    padding-left: 50px;
+    padding-top: 50px;}
+h1
+   {color: white;}
+ol
+   {color: white;
+    text-align: justify;
+    position: relative;
+    left: 970px;
+    top: 225px}
+div#trailer
+    {width: 11.8%;
+    font-size: 35px;
+    position: relative;
+    left: 1200px;
+    background: rgba(0, 0, 0, 0.5);}
+div#comprar
+    {width: 11.8%;
+    font-size: 35px;
+    position: relative;
+    left: 1200px;
+    top: 5px;
+    background: rgba(0, 0, 0, 0.5);}
+a
+    {text-decoration: none;
+     color: white;}
